@@ -88,36 +88,6 @@ npm run build:dev   # 开发环境
 npm run build:prod  # 正式环境
 npm run build:test  # 测试环境
 ```
-
-### 联系方式
-
-<table>
-  <tr align="center">
-    <td>公众号</td>
-    <td>QQ交流群</td>
-    <td>微信交流群</td>
-    <td>微信</td>
-    <td>QQ</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/official-account-qr-code.jpg" width="200px" title="公众号" alt="公众号:loafer-man" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/qq-group-qr-code.jpg" width="200px" title="QQ交流群" alt="QQ交流群:124371554" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/wechat-group-qr-code.jpg?time=3" width="200px" title="微信交流群" alt="微信交流群:124371554" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/wechat-qr-code-1.jpg" width="200px" title="微信" alt="微信:Gy1240235512" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/qq-qr-code.jpg" width="200px" title="QQ" alt="QQ:1240235512" />
-    </td>
-  </tr>
-</table>
-
 ### 其它开源项目
 
 [java-im](https://github.com/gmingchen/java-im)
