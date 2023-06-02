@@ -7,15 +7,13 @@
   </a>
 </p>
 
-[im-vue](https://github.com/gmingchen/im-vue)主要目的在于学习 __`vue3`__ + __`Element-plus`__,功能还未很完善,目前只支持好友私聊,还未支持群聊,后续会 __`持续迭代更新`__。
+[im-vue]主要目的在于学习 **`vue3`** + **`Element-plus`**,功能还未很完善,目前只支持好友私聊,还未支持群聊,后续会 **`持续迭代更新`**。
 
-后端是基于 __`java`__ 的 __`springboot`__ __`netty`__。<br>
+后端是基于 **`java`** 的 **`springboot`** **`netty`**。<br>
 
 ### 简介
 
-[im-vue](https://github.com/gmingchen/im-vue) 是一个管理后台基础功能框架，基于 [vue3](https://github.com/vuejs/vue-next) 、 [element-plus](https://github.com/element-plus/element-plus) 实现。内置了好友私聊功能。
-
-- [在线预览(备用-服务器比较low，访问有点慢！)](http://im.gumingchen.icu)
+[im-vue]是一个管理后台基础功能框架，基于 [vue3](https://github.com/vuejs/vue-next) 、 [element-plus](https://github.com/element-plus/element-plus) 实现。内置了好友私聊功能。
 
 ### 功能模块
 
@@ -36,11 +34,11 @@ vue3-src
 │  ├─icon svg图标
 │  ├─images 图片
 │  └─sass 样式
-│ 
+│
 ├─components 组件模块
-│ 
+│
 ├─router 动态
-│ 
+│
 ├─store vuex
 │  ├─modules
 │  │  ├─conversation 会话模块
@@ -50,9 +48,9 @@ vue3-src
 │  │  ├─user 用户登录信息模块
 │  │  └─websocket websocket模块
 │  └─index 动态加载模块
-│ 
+│
 ├─types typescript接口
-│ 
+│
 ├─utils 工具模块
 │  ├─constants 常量
 │  ├─index 工具
@@ -88,49 +86,3 @@ npm run build:dev   # 开发环境
 npm run build:prod  # 正式环境
 npm run build:test  # 测试环境
 ```
-
-### 联系方式
-
-<table>
-  <tr align="center">
-    <td>公众号</td>
-    <td>QQ交流群</td>
-    <td>微信交流群</td>
-    <td>微信</td>
-    <td>QQ</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/official-account-qr-code.jpg" width="200px" title="公众号" alt="公众号:loafer-man" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/qq-group-qr-code.jpg" width="200px" title="QQ交流群" alt="QQ交流群:124371554" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/wechat-group-qr-code.jpg?time=3" width="200px" title="微信交流群" alt="微信交流群:124371554" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/wechat-qr-code-1.jpg" width="200px" title="微信" alt="微信:Gy1240235512" />
-    </td>
-    <td>
-      <img src="http://oss.gumingchen.icu/image/qq-qr-code.jpg" width="200px" title="QQ" alt="QQ:1240235512" />
-    </td>
-  </tr>
-</table>
-
-### 其它开源项目
-
-[java-im](https://github.com/gmingchen/java-im)
-
-是[vue3-element-plus-im](https://github.com/gmingchen/vue3-element-plus-im)即时聊天系统的 __`java`__ 后端代码，__`springboot`__ 基于 [netty](https://github.com/netty/netty) 、 [shiro](https://github.com/apache/shiro) 实现。
-
-[vue3-element-plus-admin](https://github.com/gmingchen/vue3-element-plus-admin)
-
-是一个管理后台基础功能框架，基于 [vue3](https://github.com/vuejs/vue-next) 、 [element-plus](https://github.com/element-plus/element-plus) 和 [typescript](https://github.com/microsoft/TypeScript) 实现。内置了 i18n 国际化，动态路由，权限验证。-[私活神器]
-
-[java-admin-base](https://github.com/gmingchen/java-admin-base)
-
-是一个管理后台基础功能框架 [base-refactoring](https://github.com/gmingchen/vue3-element-plus-admin/tree/base-refactoring) 分支的后端代码，基于 __`java`__ 的 __`springboot`__
-
-[nod-server](https://github.com/gmingchen/node-server)
-是一个基于 node 开发的后端服务框架，只要你会 SQL 就也可以写接口了，再也不用看后端的脸色了。
